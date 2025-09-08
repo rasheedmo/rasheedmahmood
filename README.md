@@ -5,15 +5,16 @@ I'm an experinced incident response manager in threat reporting, log analysis, a
 My goal is to advance my skills and to safe safeguard systems.
 
 ## Projects
-- SIEM Lab 
-- SOC Automation Project
+- Splunk SIEM Lab in AWS  
+  
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+CompTIA Secuirty+
+AWS Cloud Quest: Cloud Practitioner 
+AWS Certified Solutions Architect - Associate
+AWS Certified Cloud Practitioner
+Microsoft Azure Fundmental 
+CISCO - Intro. to Cybersecurity 
+Fortinet Certified Fundamentals Cybersecurity 
+Fortinet Certified Associate Cybersecurity 
+
