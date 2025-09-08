@@ -5,7 +5,7 @@ I'm an experinced incident response manager in threat reporting, log analysis, a
 My goal is to advance my skills and to safe safeguard systems.
 
 ## Projects
-- Splunk SIEM Lab in AWS  📄[Read the full Project Report https://github.com/rasheedmo/rasheedmo/blob/main/docs/AWS%20Splunk%20SIEM%20Lab%20.pdf
+- Splunk SIEM Lab in AWS  📄 https://github.com/rasheedmo/rasheedmo/blob/main/docs/AWS%20Splunk%20SIEM%20Lab%20.pdf
 
 ## Certifications
 CompTIA Secuirty+
