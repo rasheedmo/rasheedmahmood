@@ -10,8 +10,7 @@ My goal is to advance my skills and to safe safeguard systems.
   - Forwarded data logs from the Splunk Forwarder server into Splunk Enterprise server for analysis  
   - Created dashboards in Splunk for threat detection  
   - Automated event correlation for security monitoring
-  - Documentation - docs/AWS Splunk SIEM Lab .pdf
-  
+  - Documentation - [](https://github.com/rasheedmo/rasheedmo/blob/main/docs/AWS%20Splunk%20SIEM%20Lab%20.pdf)  
 
 ## Certifications
 CompTIA Secuirty+
