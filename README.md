@@ -1,9 +1,9 @@
 # Hello, I'm Mahmood Rasheed
 
-Incident Response Manager experienced in threat reporting, log analysis, and 24/7 security operations.
+I'm an experinced incident response manager in threat reporting, log analysis, and 24/7 security operations.
 
 ## Objective
-IT professional aspiring to SOC Analyst role, advancing skills to safeguard systems.
+My ojective is to advance my skills and to safe safeguard systems.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
