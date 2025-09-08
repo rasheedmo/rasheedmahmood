@@ -2,11 +2,10 @@
 
 I'm an experinced incident response manager in threat reporting, log analysis, and 24/7 security operations.
 
-## Objective
-My ojective is to advance my skills and to safe safeguard systems.
+My goal is to advance my skills and to safe safeguard systems.
 
 ## Projects
-- Detection Lab
+- SIEM Lab 
 - SOC Automation Project
 
 ## Certifications
