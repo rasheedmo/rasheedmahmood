@@ -7,7 +7,7 @@ My goal is to advance my skills and to safeguard systems.
 ## Projects
 - **Splunk SIEM Lab on AWS**  
   Built a cloud-hosted SIEM environment using AWS EC2 + Splunk Universal Enterprise Forwarder & Splunk Enterprise.  
-  - Forwarded data logs from the Splunk Forwarder server into Splunk Enterprise server for analysis  
+  - Forward data logs from the Splunk Forwarder server into Splunk Enterprise server for analysis  
   - Created dashboards in Splunk for threat detection  
   - Automated event correlation for security monitoring
   - Documentation  📄 [Read Full Documentation (PDF)](AWSSplunkSIEMLab.pdf)
