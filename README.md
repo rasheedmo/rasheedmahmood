@@ -1,8 +1,8 @@
 # Hello, I'm Mahmood Rasheed
 
-I'm an experinced incident response manager in threat reporting, log analysis, and 24/7 security operations.
+I'm an experiencedincident response manager in threat reporting, log analysis, and 24/7 security operations.
 
-My goal is to advance my skills and to safe safeguard systems.
+My goal is to advance my skills and to safeguard systems.
 
 ## Projects
 - **Splunk SIEM Lab on AWS**  
@@ -10,15 +10,14 @@ My goal is to advance my skills and to safe safeguard systems.
   - Forwarded data logs from the Splunk Forwarder server into Splunk Enterprise server for analysis  
   - Created dashboards in Splunk for threat detection  
   - Automated event correlation for security monitoring
-  - Documentation https://github.com/rasheedmo/rasheedmo/blob/main/docs/AWS%20Splunk%20SIEM%20Lab%20.pdf  
+  - Documentation  📄 [Read Full Documentation (PDF)](docs/AWS Splunk SIEM Lab.pdf)
 
-## Certifications
-CompTIA Secuirty+
-AWS Cloud Quest: Cloud Practitioner 
-AWS Certified Solutions Architect - Associate
-AWS Certified Cloud Practitioner
-Microsoft Azure Fundmental 
-CISCO - Intro. to Cybersecurity 
-Fortinet Certified Fundamentals Cybersecurity 
-Fortinet Certified Associate Cybersecurity 
-
+## 🎓 Certifications  
+- 🛡️ CompTIA Security+  
+- ☁️ AWS Cloud Quest: Cloud Practitioner  
+- ☁️ AWS Certified Solutions Architect – Associate  
+- ☁️ AWS Certified Cloud Practitioner  
+- 🔐 Microsoft Azure Fundamentals (AZ-900)  
+- 🌐 Cisco – Intro to Cybersecurity  
+- 🏰 Fortinet Certified Fundamentals Cybersecurity  
+- 🏰 Fortinet Certified Associate Cybersecurity  
