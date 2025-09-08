@@ -1,6 +1,6 @@
 # Hello, I'm Mahmood Rasheed
 
-I'm an experiencedincident response manager in threat reporting, log analysis, and 24/7 security operations.
+I'm an Incident Response Manager with over 7+ years of experince in threat reporting, log analysis, and 24/7 security operations.
 
 My goal is to advance my skills and to safeguard systems.
 
