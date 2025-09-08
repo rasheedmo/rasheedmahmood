@@ -5,15 +5,15 @@ I'm an experinced incident response manager in threat reporting, log analysis, a
 My goal is to advance my skills and to safe safeguard systems.
 
 ## Projects
-- Splunk SIEM Lab in AWS  📄 https://github.com/rasheedmo/rasheedmo/blob/main/docs/AWS%20Splunk%20SIEM%20Lab%20.pdf
+- f
 
 - **Splunk SIEM Lab on AWS**  
   Built a cloud-hosted SIEM environment using AWS EC2 + Splunk Enterprise Forwarder & Server.  
   - Forwarded firewall logs into Splunk for analysis  
   - Created dashboards for threat detection  
-  - Automated event correlation for security monitoring  
-  📄 (docs/AWS Splunk SIEM Lab .pdf)
-
+  - Automated event correlation for security monitoring
+  - Documentation - docs/AWS Splunk SIEM Lab .pdf
+  
 
 ## Certifications
 CompTIA Secuirty+
