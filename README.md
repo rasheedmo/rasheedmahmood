@@ -13,6 +13,8 @@ My goal is to advance my skills and to safe safeguard systems.
   - Created dashboards for threat detection  
   - Automated event correlation for security monitoring  
   📄 [Project Report(docs/AWS Splunk SIEM Lab .pdf)]
+
+
 ## Certifications
 CompTIA Secuirty+
 AWS Cloud Quest: Cloud Practitioner 
