@@ -1,5 +1,5 @@
 # Hello, I'm Mahmood Rasheed
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/mahmood-rasheed-23031168><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Incident Response Manager experienced in threat reporting, log analysis, and 24/7 security operations.
 
