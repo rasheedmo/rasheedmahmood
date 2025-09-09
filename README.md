@@ -12,7 +12,6 @@ My goal is to advance my skills and to safeguard systems.
   - Automated event correlation for security monitoring
   - Documentation  📄 [Read Full Documentation (PDF)](AWSSplunkSIEMLab.pdf)
 - **Python Keylogger Lab**
-
   Devloped a Python-based keylogger to capture and log keyboard input.
   - Created a Python project in Microsoft Visual Studio and installed pynput
   - Used Python and pynput library to capture keyboard events
