@@ -18,8 +18,7 @@ My goal is to advance my skills and to safeguard systems.
   - Created a Python project in Microsoft Visual Studio and installed pynput
   - Used Python and pynput library to capture keyboard events
   - Programmed functionality to log key presses to a local file
-  - Documentation 
-
+  - Documentation [Read Full Documentation (PDF)](doc/Keylogger.py)
 
 ## 🎓 Certifications  
 - 🛡️ CompTIA Security+  
