@@ -19,7 +19,7 @@ My goal is to advance my skills and to safeguard systems.
   - Used Python and pynput library to capture keyboard events
   - Programmed functionality to log key presses to a local file
   - [View Keylogger Python Code](doc/Keylogger.py)
-  - Documentation 📄 [Read Full Documentation (PDF)](Keylogger Lab.pdf)
+  - Documentation 📄 [Read Full Documentation (PDF)](KeyloggerLab.pdf)
 ## 🎓 Certifications  
 - 🛡️ CompTIA Security+  
 - ☁️ AWS Cloud Quest: Cloud Practitioner  
