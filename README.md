@@ -1,4 +1,4 @@
-# Hello, I'm Mahmood Rasheed
+# Mahmood Rasheed
 
 I'm an Incident Response Manager with over 7+ years of experince in threat reporting, log analysis, and 24/7 security operations.
 
